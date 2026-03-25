@@ -1,0 +1,17 @@
+{
+  "name": "ejs_dynamic_routing",
+  "version": "1.0.0",
+  "description": "Practice ejs template and dynamic routing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Allister",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
